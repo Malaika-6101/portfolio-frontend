@@ -1,5 +1,6 @@
 import "./hero.css";
 import HeroButtons from "./HeroButtons";
+import devIllustration from "../../assets/developers-image/developers-image.png";
 
 function Hero() {
   return (
@@ -38,10 +39,10 @@ function Hero() {
 
         <div className="hero-image">
 
-          <img
-          src="/src/assets/developers-image/developers-image.png"
-            alt="Developer Illustration"
-          />
+         <img
+  src={devIllustration}
+  alt="Developer Illustration"
+/>
 
         </div>
 
