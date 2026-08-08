@@ -2,7 +2,7 @@ import AboutCard from "./AboutCard";
 import InfoCard from "./InfoCard";
 import Qualities from "./Qualities";
 
-import "./About.css";
+import "./about.css";
 
 function About() {
   return (
