@@ -39,7 +39,7 @@ function Hero() {
         <div className="hero-image">
 
           <img
-            src="src\assets\developer's image\ChatGPT Image Jul 23, 2026, 09_05_47 PM.png"
+          src="/src/assets/developers-image/developers-image.png"
             alt="Developer Illustration"
           />
 
