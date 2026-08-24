@@ -17,7 +17,7 @@ function Hero() {
           </span>
 
           <h1 className="hero-name">
-            Malaika Navid
+            Malaika Rajpoot
           </h1>
 
           <h2 className="hero-title">
