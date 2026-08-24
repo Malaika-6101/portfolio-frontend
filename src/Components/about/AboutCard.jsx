@@ -17,7 +17,7 @@ function AboutCard() {
 
       <p className="about-text">
 
-        I'm Malaika Navid, a Computer Science graduate with a
+        I'm Malaika Rajpoot, a Computer Science graduate with a
         passion for developing modern web applications that
         solve real-world problems.
 
